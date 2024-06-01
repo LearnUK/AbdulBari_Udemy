@@ -1,0 +1,6 @@
+#Laptop
+#Sat Nov 04 19:48:28 GMT 2023
+Processor=i7
+Brand=Dell
+OS=Windows11
+Model=Inspiron
